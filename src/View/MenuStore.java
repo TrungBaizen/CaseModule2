@@ -63,6 +63,7 @@ public class MenuStore {
             System.out.println("1.Dach sách theo giá giảm dần.");
             System.out.println("2.Dach sách theo giá tăng dần.");
             System.out.println("0.Trở về trang chủ.");
+            System.out.println("Hãy nhập lựa chọn: ");
             int choice = CommonToAll.ScannerInteger();
             switch (choice) {
                 case 1:

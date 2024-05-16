@@ -1,12 +1,12 @@
 Username:baizennn
-Id:1 , Name:Msi , Price:40 , PurchaseQuantity:2 , TotalPrice:80
+Id:1 , Name:Msi , Price:550 , PurchaseQuantity:2 , TotalPrice:1100
 Username:baizennn
-Id:6 , Name:Apple , Price:180 , PurchaseQuantity:2 , TotalPrice:360
+Id:3 , Name:Apple , Price:1800 , PurchaseQuantity:2 , TotalPrice:3600
 Username:baizennn
-Id:3 , Name:Thinkpad , Price:60 , PurchaseQuantity:1 , TotalPrice:60
+Id:3 , Name:Apple , Price:1800 , PurchaseQuantity:1 , TotalPrice:1800
 Username:hoang123
-Id:7 , Name:Asus , Price:80 , PurchaseQuantity:1 , TotalPrice:80
+Id:5 , Name:Asus , Price:600 , PurchaseQuantity:1 , TotalPrice:600
 Username:duynam94
-Id:5 , Name:Hp , Price:70 , PurchaseQuantity:1 , TotalPrice:70
+Id:6 , Name:Hp , Price:650 , PurchaseQuantity:1 , TotalPrice:650
 Username:baizennn
-Id:4 , Name:Dell , Price:110 , PurchaseQuantity:4 , TotalPrice:440
+Id:2 , Name:Dell , Price:1350 , PurchaseQuantity:4 , TotalPrice:5400
